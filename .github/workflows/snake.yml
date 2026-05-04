@@ -1,15 +1,12 @@
-name: Generate Snake
+]name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
 
     steps:
@@ -18,11 +15,10 @@ jobs:
         with:
           github_user_name: revanthrajnunna
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          name: snake
+          path: github-contribution-grid-snake.svg
