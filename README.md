@@ -41,7 +41,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/revanthrajnunna/revanthrajnunna/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/revanthrajnunna/revanthrajnunna/main/github-contribution-grid-snake.svg)
 
 ---
 
