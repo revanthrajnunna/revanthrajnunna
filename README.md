@@ -27,21 +27,21 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,html,github,tensorflow,pytorch,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=python,html,github,tensorflow,pytorch" />
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=revanthrajnunna&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=revanthrajnunna&theme=tokyonight)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/revanthrajnunna/revanthrajnunna/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
