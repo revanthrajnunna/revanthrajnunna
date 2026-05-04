@@ -1,16 +1,85 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**revanthrajnunna/revanthrajnunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Data Scientist | AI & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+📊 Turning data into meaningful insights and building intelligent systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+👯 I’m looking to collaborate on: Real-world Data Science & AI projects  
+🤔 I’m looking for help with: MLOps, scalable ML systems, and advanced deep learning  
+💬 Ask me about: Python, Machine Learning, Data Analysis, NLP, and AI  
+🎯 Currently focused on: Cracking GATE DA 2027 & mastering Data Science  
+📫 How to reach me: revanthrajnunna@gmail.com  
+
+⚡ Fun fact: I trust data over opinions, but I always question the data.
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/revanthrajnunna)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:revanthrajnunna@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,html,github,tensorflow,pytorch,numpy,pandas" />
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **AI Chatbot for Data Analysis**  
+- Built using Python, FastAPI, and LLMs  
+- Generates insights, charts, and summaries  
+
+🔹 **Machine Learning Pipeline Project**  
+- End-to-end ML workflow (data → model → evaluation)  
+- Focus on scalability and performance  
+
+🔹 **NLP Text Analyzer**  
+- Sentiment analysis + keyword extraction  
+- Built with Python & NLP libraries  
+
+🔹 **Data Visualization Dashboard**  
+- Interactive dashboards using charts and graphs  
+- Helps in decision-making  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning  
+- Deep Learning (CNNs, Transformers)  
+- Data Structures & Algorithms  
+- GATE DA Core Subjects  
+
+---
+
+## 🎯 Goals
+
+✔ Crack GATE DA with top rank  
+✔ Build real-world AI systems  
+✔ Become a top-tier Data Scientist  
+
+---
+
+⭐ *"Data is powerful—but only when you understand its story."*
