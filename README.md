@@ -23,11 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/revanthrajnunna)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:revanthrajnunna@gmail.com)
 
----
-
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,html,github,tensorflow,pytorch" />
 
 ---
 
@@ -37,33 +32,9 @@
 
 ![Streak](https://streak-stats.demolab.com?user=revanthrajnunna&theme=tokyonight)
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/revanthrajnunna/revanthrajnunna/main/github-contribution-grid-snake.svg)
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **AI Chatbot for Data Analysis**  
-- Built using Python, FastAPI, and LLMs  
-- Generates insights, charts, and summaries  
-
-🔹 **Machine Learning Pipeline Project**  
-- End-to-end ML workflow (data → model → evaluation)  
-- Focus on scalability and performance  
-
-🔹 **NLP Text Analyzer**  
-- Sentiment analysis + keyword extraction  
-- Built with Python & NLP libraries  
-
-🔹 **Data Visualization Dashboard**  
-- Interactive dashboards using charts and graphs  
-- Helps in decision-making  
-
----
 
 ## 📚 Currently Learning
 
@@ -82,4 +53,4 @@
 
 ---
 
-⭐ *"Data is powerful—but only when you understand its story."*
+⭐ "Data is powerful, but only when you understand its story."
